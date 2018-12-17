@@ -1,13 +1,11 @@
-# JavaScriptアルゴリズムとデータ構造
+# JavaScript アルゴリズムとデータ構造
 
 [![Build Status](https://travis-ci.org/trekhleb/javascript-algorithms.svg?branch=master)](https://travis-ci.org/trekhleb/javascript-algorithms)
 [![codecov](https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
 
-このリポジトリには、JavaScriptベースの多数のサンプル
-一般的なアルゴリズムとデータ構造。
+このリポジトリには、よく知られているアルゴリズムとデータ構造の JavaScript サンプルがあります。
 
-各アルゴリズムとデータ構造には独自のREADMEがあります
-関連する説明と、さらに読むためのリンク (関連YouTubeのビデオも含まれてい).
+各アルゴリズムとデータ構造には、独自の README に付随して関連する説明と、より詳細なリンク (関連 YouTube のビデオも含む)があります。
 
 _Read this in other languages:_
 [_English_](https://github.com/trekhleb/javascript-algorithms/),
@@ -19,6 +17,8 @@ _Read this in other languages:_
 [_Español_](README.es-ES.md),
 [_Português_](README.pt-BR.md)
 
+*☝ 注意：このプロジェクトは学習と調査の利用のみを目的としており、製品版に対して利用することは目的として**いません***
+
 ## データ構造
 
 データ構造は、データ値、データ値との間の関係、
@@ -28,7 +28,7 @@ _Read this in other languages:_
 
 `B` - 初心者, `A` - 上級
 
-* `B` [リンクされたリスト](src/data-structures/linked-list)
+* `B` [連結リスト](src/data-structures/linked-list)
 * `B` [二重リンクリスト](src/data-structures/doubly-linked-list)
 * `B` [キュー](src/data-structures/queue)
 * `B` [スタック](src/data-structures/stack)
@@ -36,10 +36,10 @@ _Read this in other languages:_
 * `B` [ヒープ](src/data-structures/heap) - max and min heap versions
 * `B` [優先度キュー](src/data-structures/priority-queue)
 * `A` [トライ](src/data-structures/trie)
-* `A` [リー](src/data-structures/tree)
+* `A` [ツリー](src/data-structures/tree)
   * `A` [バイナリ検索ツリー](src/data-structures/tree/binary-search-tree)
   * `A` [AVLツリー](src/data-structures/tree/avl-tree)
-  * `A` [赤黒のリー](src/data-structures/tree/red-black-tree)
+  * `A` [赤黒のツリー](src/data-structures/tree/red-black-tree)
   * `A` [セグメントツリー](src/data-structures/tree/segment-tree) - with min/max/sum range queries examples
   * `A` [フェンウィック・ツリー](src/data-structures/tree/fenwick-tree) (Binary Indexed Tree)
 * `A` [グラフ](src/data-structures/graph) (both directed and undirected)
