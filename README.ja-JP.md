@@ -62,7 +62,7 @@ _Read this in other languages:_
   * `B` [素数性テスト](src/algorithms/math/primality-test) (trial division 方法)
   * `B` [ユークリッドアルゴリズム](src/algorithms/math/euclidean-algorithm) - 最大公約数を計算する (GCD)
   * `B` [最小公倍数](src/algorithms/math/least-common-multiple) (LCM)
-  * `B` [エラトステネスのふるい](src/algorithms/math/sieve-of-eratosthenes) - 与えられた限度まですべての素数を見つける
+  * `B` [エラトステネスのふるい](src/algorithms/math/sieve-of-eratosthenes) - 指定された整数以下のすべての素数を見つける
   * `B` [Is Power of Two](src/algorithms/math/is-power-of-two) - 数値が2の累乗であるかどうかを調べる（単純なアルゴリズムとビットごとのアルゴリズム）
   * `B` [パスカルの三角形](src/algorithms/math/pascal-triangle)
   * `B` [複素数](src/algorithms/math/complex-number) - 複素数とその基本演算
